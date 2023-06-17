@@ -104,14 +104,5 @@ public class Main {
                 }
             }
         }
-//        CarService carService = new SUV();
-//        SUV suv = new SUV();
-//        ArrayList<String> arr = new ArrayList<>();
-//        arr.add("BS01");
-//        arr.add("EF01");
-//        Bill bill = new Bill(carService , arr);
-//        Bill bill = new Bill(suv , arr);
-//        int sum = bill.calculateBill();
-//        System.out.println(sum);
     }
 }
